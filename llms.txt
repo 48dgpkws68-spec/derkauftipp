@@ -2,6 +2,18 @@
 
 > Unabhängige Top-10-Kaufratgeber. Je Produktart zehn Modelle verglichen nach technischen Daten, Preis und Kundenbewertungen, mit Vor- und Nachteilen, Kaufberatung und FAQ. Preise sind unverbindliche Richtpreise.
 
+derkauftipp wird von Nick van Straaten betrieben, einem unabhängigen Herausgeber aus den Niederlanden. Pro Produktart vergleichen wir Modelle anhand von technischen Daten, Preis und Erfahrungen von Käufern und aktualisieren einen Ratgeber, wenn sich Preise ändern oder ein besseres Modell erscheint. Eigene Labormessungen machen wir nicht. Unsere Ratgeber entstehen mit Hilfe von KI-Werkzeugen auf Basis von Herstellerangaben, Preisen und Käuferbewertungen; Nick verantwortet die Methode und korrigiert Ratgeber, wenn Leser oder unsere eigenen Prüfungen einen Fehler finden. Kontakt: nick@4neon.nl
+
+## Wichtigste Seiten
+
+- [derkauftipp](https://derkauftipp.de/): Unabhängige Top-10-Kaufratgeber: die besten Fernseher, Saugroboter, Heißluftfritteusen und mehr 2026. Verglichen nach Preis, Daten und Bewertungen.
+- [Alle Ratgeber](https://derkauftipp.de/alle-ratgeber.html): Übersicht aller Top-10-Kaufratgeber auf derkauftipp, filterbar nach Kategorie.
+- [So wählen wir aus](https://derkauftipp.de/so-waehlen-wir.html): So bewerten wir: eine Note von 1 bis 10 für Leistung, Preis-Leistung, Zuverlässigkeit und Bedienung, auf Basis von Herstellerdaten, Preisen und Bewertungen.
+- [Über uns](https://derkauftipp.de/ueber-uns.html): derkauftipp veröffentlicht unabhängige Top-10-Kaufratgeber, betrieben von Nick van Straaten aus den Niederlanden. Marken können sich keinen Platz kaufen.
+- [Geschenke](https://derkauftipp.de/geschenke/): Geschenkideen für 2026: die Nummer 1 aus jedem unserer Top-10-Ratgeber, ausgewählt nach Daten, Preis und Käuferbewertungen.
+- [Kaufberater](https://derkauftipp.de/kaufberater.html): Beantworte drei Fragen und finde heraus, welches Produkt aus unseren Top-10-Ratgebern am besten zu deinem Budget und deinen Wünschen passt.
+- [Preis-Leistung](https://derkauftipp.de/preis-leistungs-tipps.html): Für jede Produktart das Modell mit dem besten Preis-Leistungs-Verhältnis aus unseren Top-10-Ratgebern.
+
 ## Haushalt
 
 - [Die 10 besten Saugroboter mit Wischfunktion 2026](https://derkauftipp.de/beste/beste-saugroboter-mit-wischfunktion.html): #1 Roborock Saros 10R
